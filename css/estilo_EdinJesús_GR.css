@@ -1,0 +1,17 @@
+.banner, .footer{
+    background-color: green;
+    color: rgb(38, 34, 34);
+    text-align: center;
+    padding: 10px 0;
+}
+.contenido{
+    width: 75%;
+    padding: 100px;
+}
+.img{
+    width: 95px; 
+    height: auto; 
+    float: left; 
+    margin-right: 25px; 
+    margin-bottom: 25px; 
+}

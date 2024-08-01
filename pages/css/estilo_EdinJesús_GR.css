@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    background-size: contain;
+}
+.banner, .footer{
+    background-color: green;
+    color: rgb(38, 34, 34);
+    text-align: center;
+    padding: 10px 0;
+}
+.contenido{
+    width: 75%;
+    padding: 100px;
+}
+.imgtexto{
+    width: 95px; 
+    height: auto; 
+    float: left; 
+    margin-right: 25px;
+
+}
+.img{
+
+    width: 133px; 
+    height: auto; 
+    float: left; 
+    margin-right: 25px; 
+}
+h2{
+    font-family: cursive;
+}
+.h3{
+    background-color: white;
+    color: black;
+}
+.infotxt{
+   margin-top: 50px; 
+}
+
